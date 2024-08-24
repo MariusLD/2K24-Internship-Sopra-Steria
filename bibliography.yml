@@ -1,0 +1,137 @@
+framework: 
+  type: Article 
+  author: 
+    - Charles Rémy
+  title: L'essor des frameworks dans le développement web
+  date: 2023
+  url: https://agence-bb.ch/blog/lessor-des-frameworks-dans-le-developpement-web/
+framework2:
+  type: Article
+  author:
+    - Pure
+  title: Définition de Framework
+  url: https://www.pure-illusion.com/lexique/definition-de-framework
+devweb: 
+  type: Article 
+  author: 
+    - Ecole DSP
+  title: "Tout savoir sur le développement web : métier, formations et salaire » Qu'est-ce que le développement web ?"
+  url: https://www.digitalschool.paris/guides/developpement-web/definition/#:~:text=Le%20d%C3%A9veloppement%20web%20englobe%20tout,et%20les%20mises%20%C3%A0%20jour
+crud:
+  type: Article
+  author:
+    - Wikipedia
+  title: CRUD
+  date: 2024
+  url: https://fr.wikipedia.org/wiki/CRUD
+popframeworks:
+  type: Article
+  author:
+    - App Academy
+  title: 8 Most Popular Web Programming Frameworks (2024)
+  date: 2024
+  url: https://www.appacademy.io/blog/8-most-popular-web-programming-frameworks
+spring:
+  type: Article
+  author:
+    - GeeksforGeeks
+  date: 2024
+  title: Difference between Spring and Spring Boot
+  url: https://www.geeksforgeeks.org/difference-between-spring-and-spring-boot/
+java:
+  type: Article
+  author:
+    - Ibrahim Cisse
+  date: 2020
+  title: Quand et pourquoi Java est utilisé pour le développement d'applications ?
+  url: https://ibracilinks.com/blog/quand-et-pourquoi-java-est-utilise-pour-le-developpement-dapplications#:~:text=Java%20permet%20d'%C3%A9crire%20le,comme%20Linux%2C%20avec%20quelques%20modifications
+frontback:
+  type: Article
+  author:
+    - Adityagaba
+  date: 2023
+  title: "Streamlining Backend-Frontend Integration: A Quick Guide"
+  url: https://medium.com/@adityagaba1322/streamlining-backend-frontend-integration-a-quick-guide-145eca3cca05
+dom:
+  type: Article
+  author:
+    - Jonathan Robie
+  title: What is the Document Object Model?
+  url: https://www.w3.org/TR/WD-DOM/introduction.html#:~:text=The%20Document%20Object%20Model%20(DOM,document%20is%20accessed%20and%20manipulated
+apirest:
+  type: Article
+  author:
+    - DevUniversity - Team Redac
+  date: 2024
+  title: "Maîtriser les APIs REST : Principes et Avantages"
+  url: https://www.devuniversity.com/blog/apis-rest-principes-et-avantages#:~:text=Les%20principes%20d'une%20API%20Rest%20sont%20%3A,%C3%A9liminant%20certaines%20interactions%20client-serveur
+jira:
+  type: Article
+  author:
+    - Atlassian
+  title: Présentation de Jira - Jira pour les équipes
+  url: https://www.atlassian.com/fr/software/jira/guides/getting-started/who-uses-jira#for-agile-teams
+wave:
+  type: Article
+  author:
+    - Carolyn Quintero
+  title: WAVE Web Accessibility Evaluation Tool
+  url: https://www.boisestate.edu/webguide/publishing/wave-web-accessibility-evaluation-tool/#:~:text=WAVE%20is%20a%20free%20web,identify%20many%20accessibility%20issues%20manually
+dsfr:
+  type: Article
+  author:
+    - Gouvernement français
+  title: Service d'information du Gouvernement (SIG) - Système de design
+  date: 2023
+  url: https://www.info.gouv.fr/organisation/service-d-information-du-gouvernement-sig/systeme-de-design#:~:text=Cr%C3%A9%C3%A9%20et%20maintenu%20depuis%202020,sites%20internet%20et%20applications%20mobiles
+sonar:
+  type: Article
+  author:
+    - Sean Malloy
+  title: An Introduction on SonarQube
+  url: https://www.crestdata.ai/blogs/an-introduction-on-using-sonarqube#:~:text=SonarQube%20is%20a%20Code%20Quality,be%20measured%20continually%20over%20time
+pyramid:
+  type: Article
+  author:
+    - Pega
+  title: Test pyramid
+  url: https://academy.pega.com/topic/test-pyramid/v1
+hexagonale:
+  type: Article
+  author:
+    - Sébastien Roccaserra
+  date: 2018
+  title: "Architecture Hexagonale : trois principes et un exemple d'implémentation"
+  url: https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation
+hibernate:
+  type: Article
+  author:
+    - Mohamed Elhamra
+  date: 2020
+  title: Hibernate framework basics and architecture
+  url: https://medium.com/@mohamed.elhamra/hibernate-framework-basics-and-architecture-fe2bea5911ae
+entity:
+  type: Article
+  author:
+    - Oracle
+  title: The Java EE 6 Tutorial - Entities
+  url: https://docs.oracle.com/javaee/6/tutorial/doc/bnbqa.html#:~:text=An%20entity%20is%20a%20lightweight,entities%20can%20use%20helper%20classes
+rancher:
+  type: Article
+  author:
+    - Germain Lefebvre
+  date: 2018
+  title: Présentation de Rancher
+  url: https://blog.ineat-group.com/2018/07/presentation-de-rancher/#:~:text=Rancher%20est%20un%20orchestrateur%20l%C3%A9ger,application%20(ensemble%20de%20services).
+harbor:
+  type: Article
+  author:
+    - Harbor
+  url: https://goharbor.io/
+statista:
+  type: Article
+  author:
+    - Statista
+  date: 2024
+  title: Most used web frameworks among developers worldwide, as of 2024
+  url: https://www.statista.com/statistics/1124699/worldwide-developer-survey-most-used-frameworks-web/
