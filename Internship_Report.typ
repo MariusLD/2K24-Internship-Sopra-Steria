@@ -80,7 +80,7 @@ Avec le temps, la nécessité d'une telle solution est réapparue, et les besoin
 #pagebreak()
 
 #outline(
-    title: text(17pt)[*Contents* #v(10pt)],
+    title: text(17pt)[*Sommaire* #v(10pt)],
     indent: auto)
 
 #pagebreak()
