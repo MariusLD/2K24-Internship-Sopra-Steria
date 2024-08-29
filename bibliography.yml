@@ -1,3 +1,9 @@
+sopra:
+  type: Article
+  author:
+    - Sopra Steria
+  title: À propos de Sopra Steria
+  url: https://www.soprasteria.com/fr/investisseurs/a-propos-de-sopra-steria/chiffres-cles
 framework: 
   type: Article 
   author: 
