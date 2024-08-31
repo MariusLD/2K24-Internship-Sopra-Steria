@@ -212,7 +212,7 @@ Le choix d'Angular pour ce projet s'explique par plusieurs facteurs spécifiques
 
 - TypeScript et maintenabilité : Angular est conçu autour de TypeScript, un surensemble de JavaScript qui ajoute des fonctionnalités de typage statique. Cela améliore la maintenabilité du code, facilite la détection d'erreurs en amont et rend le développement plus structuré, ce qui est essentiel pour les grandes équipes ou les projets de longue durée.
 
-- Data Binding Bidirectionnel : Le data binding bidirectionnel d'Angular simplifie la gestion des données entre le frontend et le backend, particulièrement utile dans les applications où les données évoluent fréquemment et nécessitent une synchronisation en temps réel avec l'interface utilisateur.
+- Data Binding Bidirectionnel : Le data binding bidirectionnel d'Angular simplifie la gestion des données côté frontend, particulièrement utile dans les applications où les données évoluent fréquemment et nécessitent une synchronisation en temps réel avec l'interface utilisateur.
 
 - Outils de développement : Angular CLI accélère le processus de développement en offrant des commandes pour générer du code (module, pipe, resolver, service, guard, interface, component...), exécuter des tests et déployer l'application, ce qui a été particulièrement bénéfique pour le projet.
 
