@@ -20,7 +20,7 @@ image("logos/Logo-Universite-de-Rennes-1.png"),[],[], image("logos/sopra_steria.
 stroke: white )
 
 #table(
-  columns : (50%, 50%), inset : 8pt, align : horizon, [*Marius Le Douarin* \ IT - Information Systems \ 2024 \ \ *Francois Taiani* \ Professor-researcher], [*Sopra Steria* \ Carrer de Casanovoa, n°2, 08011 Barcelona \ info_es$@$soprasteria.com \ \ *Amal Hafi* \ Senior Information Systems Analyst]
+  columns : (50%, 50%), inset : 8pt, align : horizon, [*Marius Le Douarin* \ IT - Information Systems \ 2024 \ \ *Francois Taiani* \ Professor-Researcher], [*Sopra Steria* \ Carrer de Casanovoa, n°2, 08011 Barcelona \ info_es$@$soprasteria.com \ \ *Amal Hafi* \ Senior Full-Stack Engineer]
 )
 
 #v(100pt)
